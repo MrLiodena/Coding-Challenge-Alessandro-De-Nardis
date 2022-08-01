@@ -1,0 +1,63 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 1920px 1080px
+}
+
+.Container{
+  width: 900px;
+  margin: auto;
+  margin-top: 100px;
+  background-color:rgba(0, 0, 0 ,0.6);
+  border-radius: 10px;
+  color: white;
+  font-family: Arial;
+  padding: 100px
+}
+
+#image{
+  width: 300px
+}
+
+h1{
+  font-size: 40px;
+  color: limegreen
+}
+
+.button {
+  text-align: center;
+  background-color: limegreen;
+  padding: 10px
+}
+
+input {
+  display: inline-block;
+}
+
+.monopattino{
+  padding-top: 20px;
+}
+
+h2{
+  display: inline-block;
+}
+
+#barra1{
+  border: 10px solid orange;
+  border-radius: 5px;
+  width: 240px;
+  margin-right: 700px
+}
+
+#barra2{
+  border: 10px solid limegreen;
+  border-radius: 5px;
+  width: 600px;
+  margin-right: 600px
+}
+
+#barra3{
+  border: 10px solid FireBrick;
+  border-radius: 5px;
+  width: 105px;
+  margin-right: 800px
+}
